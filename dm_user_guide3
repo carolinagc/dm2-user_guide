@@ -1,0 +1,74 @@
+
+**Preface
+
+Since user guides tend to be boring to write and then boring to read, we've tried to have fun writing this one and hopefully you'll have also fun reading it, in between you'll discover how Deepamehta works!
+
+
+**Introduction
+
+
+
+** The situation
+If we think DM as a whole of situations, then the best way to start would be to create a first situation.
+Let's imagine we've got an appointment with some friends to talk about a possible business, normally you would take somewhow structure notes, with some side notations that come up later.
+So the notes taken look like this:
+
+Marina(Barcelona) is doing a project with the neighbourhood organization AAVVB
+Participants: Marina, the group XXX from the University UOA, Pep and Rosa
+The goal: Map the changes in the neighborhood in the last decades
+How: Going for a walk around the neighborhood with old people
+At the end of the walk photos will be taken and uploaded and associated to their location in a map on the website
+Maybe there is a possibility to create a collaborative project with a neighborhood in Berlin
+The project will last for one year
+
+Let's go to our browser, just to dive better in DM, a suggestion is to set your browser to full screen, so you enter in DM mode ;-)
+The first thing you will see is:
+  The screen is divided in three parts, 
+    a toolbar at the top, 
+    a left panel that is called Topicmap
+    a right panel that is called Detail Panel
+    
+The toolbar in the top part allows you to select and perform various operations. If you are not logged in,  you will be able to select a Workspace, a Topicmap, to search by name an item that you know or by type, access the help and the link to log in. when you log in, you will also see a Create menu.
+
+If you take a look at what there is in the Create menu, you will see that by default it appears "Person", "Institution", "Notes", "Web Resource" ..mmm actually probably for the moment that is enough to write down our notes from the meeting in a DM way.
+
+Let's proceed
+
+We can create 3 Persons, Marina, Pep and Rosa
+
+[dm2_example01.png]
+
+[dm2_example02.png]
+
+We can create 2 Institutions, AAVVB, University UOA
+
+[dm2_example04.png]
+
+We can create a note with the name of the group from the University
+
+[dm2_example05.png]
+
+
+Now that we have the main elements on our left panel, the Topicmap, let's see what are the relations between them.
+
+Until now, we have drawn 3 Persons, 2 Institutions, 1 Note which in DM language would be  6 Topics
+Now we want to establish the relations between the Topics, and in DM language the relations are called associations.
+
+
+
+
+[Suggestions] On the create menu, everytime you create a new Topic map, just see the default Topic Types. And on the Topic Types that the user creates add the option "show on create menu"
+
+
+
+
+
+
+
+
+
+
+
+
+
+

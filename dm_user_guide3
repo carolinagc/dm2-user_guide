@@ -54,6 +54,40 @@ Now that we have the main elements on our left panel, the Topicmap, let's see wh
 Until now, we have drawn 3 Persons, 2 Institutions, 1 Note which in DM language would be  6 Topics
 Now we want to establish the relations between the Topics, and in DM language the relations are called associations.
 
+Marina, Pep and Rosa work together, so we could say that Marina works with Rosa and Marina works with Pep, and in the same way could we do with Rosa and Pep.
+If you right click on Marina, a menu will display and you will see the "Associate" option, click on it.
+
+[dm2_example06.png]
+
+ A line will appear, drag it to Rosa so an association is created. So now Marina is associated with Rosa.
+ 
+ [dm2_example07.png]
+
+We repeat the same process to create the Relation between Marina and Pep, and Rosa and Pep. Now the three of them are connected.
+
+[dm2_example08.png]
+
+Another cool thing we can do, is to name the association, because associations are also editable, let's do it in a descriptive way, and write "works with".
+ 
+ [dm2_example09.png]
+
+You can edit each of the other associations, to also name it.
+
+*Tip*
+If you double click on the association it will become editable
+
+Now let's create the associations between the Group of researchers and Marina, Pep and Rosa
+
+ [dm2_example10.png]
+
+But we know that the Group of researchers belong to the UOA University, so we can also establish the association between them, and name it, for example, isParOf, since the Group of researchers is part of the University.
+
+ [dm2_example12.png]
+
+So, what we've got now is the group of people that is going to participate in the project.  
+
+
+
 
 
 

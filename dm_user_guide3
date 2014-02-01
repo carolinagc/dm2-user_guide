@@ -26,7 +26,7 @@ The first thing you will see is:
   The screen is divided in three parts, 
     a toolbar at the top, 
     a left panel that is called Topicmap
-    a right panel that is called Detail Panel
+    a right panel that is called Detail Panel and shows the details about the item currently selected
     
 The toolbar in the top part allows you to select and perform various operations. If you are not logged in,  you will be able to select a Workspace, a Topicmap, to search by name an item that you know or by type, access the help and the link to log in. when you log in, you will also see a Create menu.
 
@@ -84,11 +84,43 @@ But we know that the Group of researchers belong to the UOA University, so we ca
 
  [dm2_example12.png]
 
-So, what we've got now is the group of people that is going to participate in the project.  
+So, if we click on the Note "Group of researchers", on the Detail Panel we can see on top we have a block of information that is the  Name and the Description of the Note, below we can see that the Note is associated with other topics in the DM world.
+In our case this Note is associated to one Institution, three Person. Then  it comes the Topic Type which defines the structure of the "thing", in our case the Note, as a topic is a generic idea, when we add the "type" we are defining exactly what it is, normally by setting a group of properties, in the case of Note these are "Name" and "Text". Just after we can see the name of the Topicmap to which our Note belongs to and finally the Worspace. Workspace would be like the topmost container for our content, let's say we could have one Workspace per situation.
+
+ [dm2_example11.png]
 
 
+No need to retain all this information, is just a first introduction to the information that appears in the Detail Panel, so let's do a break, get a cup of tea and back in a few minutes
 
+Tea time!!! 
+[cup_of_tea_bagieu-bio.jpg]
 
+Feeling better now, right? Ok, next thing we want to create is the project, how is related to the people and the web resource where we can find more information.
+
+Probably you main area in the left panel is quite full, but if you click on it and drag it, it will move :)
+
+*Tip*
+  If you want to move the canvas, so that you can see better the topic map, you just have to click on the canvas and drag it untill you locate the topic map where you want.
+  You can resize the Panels. You just need to put the mouse on the border between the two panels and when appears (put here the icon) just drag the panel to the size you want.
+
+Once we've situated the canvas, we create another Note. We call it "Tornaralloc", the name of the project.
+
+ [dm2_example13.png]
+ 
+ Next go to the Create menu in the toolbar and select Web resource, and we write the URL of the project
+
+ [dm2_example17.png]
+
+Now we have a webresource associated to the project
+
+ [dm2_example18.png]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 [Suggestions] On the create menu, everytime you create a new Topic map, just see the default Topic Types. And on the Topic Types that the user creates add the option "show on create menu"

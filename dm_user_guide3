@@ -103,9 +103,12 @@ Probably you main area in the left panel is quite full, but if you click on it a
   If you want to move the canvas, so that you can see better the topic map, you just have to click on the canvas and drag it untill you locate the topic map where you want.
   You can resize the Panels. You just need to put the mouse on the border between the two panels and when appears (put here the icon) just drag the panel to the size you want.
 
-Once we've situated the canvas, we create another Note. We call it "Tornaralloc", the name of the project.
-
+Once we've situated the canvas, we create another Note. We call it "Tornaralloc"
  [dm2_example13.png]
+ 
+Next we associate it to Marina, we wil call the association "An idea of"
+
+  [dm2_example16.png]
  
  Next go to the Create menu in the toolbar and select Web resource, and we write the URL of the project
 

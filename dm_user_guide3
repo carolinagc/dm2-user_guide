@@ -76,9 +76,10 @@ You can edit each of the other associations, to also name it.
 *Tip*
 If you double click on the association it will become editable
 
-Now let's create the associations between the Group of researchers and Marina, Pep and Rosa
+Now let's create the associations between the Note "Group of researchers" and Person Pep and Person Rosa
 
- [dm2_example10.png]
+[dm2_example10.png]
+
 
 But we know that the Group of researchers belong to the UOA University, so we can also establish the association between them, and name it, for example, isParOf, since the Group of researchers is part of the University.
 

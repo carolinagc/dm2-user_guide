@@ -6,7 +6,11 @@ Since user guides tend to be boring to write and then boring to read, we've trie
 
 **Introduction
 
+Let's play a short game, look to your right for 10 seconds, then write down what you remember with as many details as possible.
+Probably you will remember an image and then  try to describe it. We draw upon our visual memory to fix information, then we probably establish some references, top-right, bottom, etc .. we cut the information into smaller pieces and create the relation between them.
+We keep building maps of information, we extract the important info let's says they are the "dots" in our map, and we establish relations, the lines in our map.
 
+So what we store in our brain are not full pages of text but maps where the concept and its relations can rebuild the information and knowledge.
 
 ** The situation
 If we think DM as a whole of situations, then the best way to start would be to create a first situation.
@@ -14,25 +18,14 @@ Let's imagine we've got an appointment with some friends to talk about a possibl
 So the notes taken look like this:
 
 Marina(Barcelona) is doing a project with the neighbourhood organization AAVVB
-Participants: Marina, the group XXX from the University UOA, Pep and Rosa
+Participants: Marina, the group XXX from the University UOA (Pep and Rosa)
 The goal: Map the changes in the neighborhood in the last decades
 How: Going for a walk around the neighborhood with old people
 At the end of the walk photos will be taken and uploaded and associated to their location in a map on the website
 Maybe there is a possibility to create a collaborative project with a neighborhood in Berlin
 The project will last for one year
 
-Let's go to our browser, just to dive better in DM, a suggestion is to set your browser to full screen, so you enter in DM mode ;-)
-The first thing you will see is:
-  The screen is divided in three parts, 
-    a toolbar at the top, 
-    a left panel that is called Topicmap
-    a right panel that is called Detail Panel and shows the details about the item currently selected
-    
-The toolbar in the top part allows you to select and perform various operations. If you are not logged in,  you will be able to select a Workspace, a Topicmap, to search by name an item that you know or by type, access the help and the link to log in. when you log in, you will also see a Create menu.
-
-If you take a look at what there is in the Create menu, you will see that by default it appears "Person", "Institution", "Notes", "Web Resource" ..mmm actually probably for the moment that is enough to write down our notes from the meeting in a DM way.
-
-Let's proceed
+Let's proceed -- login ...on the top you'll see a Create
 
 We can create 3 Persons, Marina, Pep and Rosa
 
@@ -43,6 +36,23 @@ We can create 3 Persons, Marina, Pep and Rosa
 We can create 2 Institutions, AAVVB, University UOA
 
 [dm2_example04.png]
+
+
+****************OJOOOOOOOOOOOO  REVISE
+Let's go to our browser, just to dive better in DM, a suggestion is to set your browser to full screen, so you enter in DM mode ;-)
+The first thing you will see is:
+  The screen is divided in three parts, 
+    a toolbar at the top, 
+    a left panel that is called Topicmap Panel
+    a right panel that is called Detail Panel and shows the details about the item currently selected
+    
+The toolbar in the top part allows you to select and perform various operations. If you are not logged in,  you will be able to select a Workspace, a Topicmap, to search by name an item that you know or by type, access the help and the link to log in. when you log in, you will also see a Create menu.
+
+If you take a look at what there is in the Create menu, you will see that by default it appears "Person", "Institution", "Notes", "Web Resource" ..mmm actually probably for the moment that is enough to write down our notes from the meeting in a DM way.
+
+
+*************************
+
 
 We can create a note with the name of the group from the University
 
@@ -56,6 +66,9 @@ Now we want to establish the relations between the Topics, and in DM language th
 
 Marina, Pep and Rosa work together, so we could say that Marina works with Rosa and Marina works with Pep, and in the same way could we do with Rosa and Pep.
 If you right click on Marina, a menu will display and you will see the "Associate" option, click on it.
+
+*Tip*
+To establish an association you can also drag the icon at the bottom right to the Topic you want to associate with
 
 [dm2_example06.png]
 
@@ -74,7 +87,7 @@ Another cool thing we can do, is to name the association, because associations a
 You can edit each of the other associations, to also name it.
 
 *Tip*
-If you double click on the association it will become editable
+If you double click on the associations or the Topics they will become editable
 
 Now let's create the associations between the Note "Group of researchers" and Person Pep and Person Rosa
 
@@ -86,7 +99,7 @@ But we know that the Group of researchers belong to the UOA University, so we ca
  [dm2_example12.png]
 
 So, if we click on the Note "Group of researchers", on the Detail Panel we can see on top we have a block of information that is the  Name and the Description of the Note, below we can see that the Note is associated with other topics in the DM world.
-In our case this Note is associated to one Institution, three Person. Then  it comes the Topic Type which defines the structure of the "thing", in our case the Note, as a topic is a generic idea, when we add the "type" we are defining exactly what it is, normally by setting a group of properties, in the case of Note these are "Name" and "Text". Just after we can see the name of the Topicmap to which our Note belongs to and finally the Worspace. Workspace would be like the topmost container for our content, let's say we could have one Workspace per situation.
+In our case this Note is associated to one Institution, three Persons. Then  it comes the Topic Type which defines the structure of the "thing", in our case the Topic Type Note, as a topic is a generic idea, when we add the "type" we are defining exactly what it is, normally by setting a group of properties, in the case of Note these are "Name" and "Text". Just after we can see the name of the Topicmap to which our Note belongs to and finally the Worspace. Workspace would be like the topmost container for our content, let's say we could have one Workspace per project.
 
  [dm2_example11.png]
 
@@ -98,7 +111,7 @@ Tea time!!!
 
 Feeling better now, right? Ok, next thing we want to create is the project, how is related to the people and the web resource where we can find more information.
 
-Probably you main area in the left panel is quite full, but if you click on it and drag it, it will move :)
+Probably your main area in the left panel is quite full, but if you click on it and drag it, it will move :)
 
 *Tip*
   If you want to move the canvas, so that you can see better the topic map, you just have to click on the canvas and drag it untill you locate the topic map where you want.
@@ -127,7 +140,7 @@ Now we have a webresource associated to the project
  
 
 
-[Suggestions] On the create menu, everytime you create a new Topic map, just see the default Topic Types. And on the Topic Types that the user creates add the option "show on create menu"
+
 
 
 

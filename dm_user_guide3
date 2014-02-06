@@ -97,7 +97,7 @@ But we know that the Group of researchers belong to the UOA University, so we ca
 Now that we've been doing things, lets stop and put certain names to those things.
 
 The screen is divided in three parts, 
-    a toolbar at the top, 
+    a toolbar at the top, we'll explain the options shown a bit later
     a left panel that is called Topicmap Panel, there you have the Topics and Associations
     a right panel that is called Detail Panel and shows the details about the item currently selected
     
@@ -131,10 +131,69 @@ Next we associate it to Marina, we wil call the association "An idea of"
 Now we have a webresource associated to the project
 
  [dm2_example18.png]
- 
+  
+We still have not defined the relation between AAVVB with the project. The AAVVB would be institution that will finance the project.
 
-********** Maybe introduce this later
-In our case this Note is associated to one Institution, three Persons. Then  it comes the Topic Type which defines the structure of the "thing", in our case the Topic Type Note, as a topic is a generic idea, when we add the "type" we are defining exactly what it is, normally by setting a group of properties, in the case of Note these are "Name" and "Text". Just after we can see the name of the Topicmap to which our Note belongs to and finally the Worspace. Workspace would be like the topmost container for our content, let's say we could have one Workspace per project.
+ [dm2_example19.png]
+ 
+ 
+Ok, now we have a map of the people and institutions involved in the project, and what are their roles in it.
+
+The next thing we want to do, is actually define what will the project consist on. That is a bit different thing, so we need to start from scratch, from a clean screen, so to do that in DM we will create a new Topicmap.
+
+Go to the toolbar menu, click on Topicmap, a drop down will be displayed, click on "New Topicmap", we will call it "tornarallloc"
+
+[dm2_example20.png]
+
+You will a brand new screen
+
+[dm2_example27.png]
+
+But one of the great things in DM is that, when creating a new Topicmap you still have all the previous topics created available :-)
+so let's recover them!
+
+We want to recover the Note "tornarallloc" and the reference to its web resource. Let's stop a moment and introduce a new concept, "Type". Until now, we've been talking about Topics. Topic is a generic idea, adding the "Type" means defining exactly what it is, specifying its properties. In the case of Note these are "Name" and "Text". So Topic Type Note would be a Topic defined by a Name and a Text.
+
+Why we do need to know this, we were at the point of trying to bring back "tornallloc" Note to our new Topicmap, so on the top toolbar menu, you have a search option, you can search by Text or by Type. We are going to search by Type, now we know that are Note is a Topic Type Note, so
+
+[dm2_example26.png]
+
+
+And what will see after is
+
+[dm2_example21.png]
+
+
+Now look at the Detail Panel, you will see all the Notes that have been created on your DM world. Look for "tornarllloc" Note on the Detail Panel, click on it and then it will appear in your brand new Topicmap :-)
+
+[dm2_example22.png]
+
+
+If you want to show in the Topicmap, any of the info associated with the Note "tornarallloc", just take a look at the Detail Panel, and for example, let's recover the Webresource, click where says Webresource and hop!! the URL of tornarallloc website will be shown on your Topicmap.
+
+[dm2_example23.png]
+
+Probably you've noticed that you still see your search "Note(s)" but is not really something that interests us to see, so let's hide it :). DM let's you hide and show Topics and Associations at any moment.
+
+Right click on the Topic "Note(s)" and click on Hide. Hidding the Topic will hide also the Association. If at some point you want to see the Topic Type but not the Association, you can right click on the association, click hide and then just the association will be hidden. 
+
+[dm2_example24.png]
+
+
+So by now, your new Topicmap will just show the Note "tornarallloc" and the webResource associated to it, which is the URL of its website.
+
+[dm2_example25.png]
+
+
+We've done quite a lot of things, so Tea time!!! 
+[cup_of_tea_bagieu-bio.jpg]
+
+
+
+
+
+*********************
+Then it comes the Topic Type which defines the structure of the "thing", in our case the Note.  Just after we can see the name of the Topicmap to which our Note belongs to and finally the Worspace. Workspace would be like the topmost container for our content, let's say we could have one Workspace per project.
 
 No need to retain all this information, is just a first introduction to the information that appears in the Detail Panel, so let's do a break, get a cup of tea and back in a few minutes
 
